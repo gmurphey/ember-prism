@@ -1,5 +1,7 @@
 # Ember-prism
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/brandonjmckay/ember-prism.svg)](https://greenkeeper.io/)
+
 This project aims to make re-usable ember components for [PrismJS](http://prismjs.com/).
 This project is packaged as an [EmberCLI](http://www.ember-cli.com) addon.
 
